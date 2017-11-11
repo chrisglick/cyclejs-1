@@ -8,8 +8,8 @@ function targetStyle(left, top) {
   return {
     position: 'relative',
     backgroundColor: 'blue',
-    width: '10px',
-    height: '10px',
+    width: '60px',
+    height: '60px',
     left: `${Math.round(left)}px`,
     top: `${Math.round(top)}px`,
   };
